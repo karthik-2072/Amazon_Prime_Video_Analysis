@@ -32,14 +32,6 @@ This project involves analyzing Amazon Prime Video data and developing an intera
   - **Total Shows by Release Year**: Line chart showing the trend of releases over the years.
   - **Genres by Total Shows**: Bar chart showing the number of shows for each genre.
 
-## How to Run the Project
-1. **Clone the Repository**: Clone the project repository to your local machine.
-    ```bash
-    git clone <repository_url>
-    ```
-2. **Install Power BI**: Ensure you have Power BI Desktop installed on your machine.
-3. **Open the Power BI File**: Open the provided Power BI file (`Amazon_Dashboard.pbix`) in Power BI Desktop.
-4. **Explore the Dashboard**: Interact with the various visualizations to explore the data.
 
 ## Conclusion
 This project demonstrates the process of data cleaning, transformation, analysis, and visualization using Power BI. The interactive dashboard provides valuable insights into the content available on Amazon Prime Video, including trends in ratings, genres, and release dates.
